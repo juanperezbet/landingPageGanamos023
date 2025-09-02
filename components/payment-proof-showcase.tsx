@@ -10,7 +10,7 @@ const paymentProofs = [
   {
     id: 1,
     amount: "$ 300.000,00",
-    date: "10 de abril de 2025",
+    date: "10 de agosto de 2025",
     platform: "Mercado Pago / Ualá",
     image: "/images/proofs/payment-proof-1.png",
     testimonial: "Muy buena la atención ❤️",
@@ -18,7 +18,7 @@ const paymentProofs = [
   {
     id: 2,
     amount: "$ 200.000,00",
-    date: "11 de abril de 2025",
+    date: "11 de agosto de 2025",
     platform: "Naranja X",
     image: "/images/proofs/payment-proof-2.png",
     testimonial: "Super rapidos y confiables",
@@ -26,7 +26,7 @@ const paymentProofs = [
   {
     id: 3,
     amount: "$ 420.000,00",
-    date: "8 de abril de 2025",
+    date: "8 de agosto de 2025",
     platform: "Mercado Pago / Naranja x",
     image: "/images/proofs/payment-proof-3.png",
     testimonial: "Una genia",
@@ -34,7 +34,7 @@ const paymentProofs = [
   {
     id: 4,
     amount: "$ 50.000,00",
-    date: "10 de abril de 2025",
+    date: "10 de agosto de 2025",
     platform: "Ualá",
     image: "/images/proofs/payment-proof-4.png",
     testimonial: "Muy buena la atencion",
@@ -42,7 +42,7 @@ const paymentProofs = [
   {
     id: 5,
     amount: "$ 167.000,00",
-    date: "11 de abril de 2025",
+    date: "11 de agosto de 2025",
     platform: "Mercado Pago / Uala",
     image: "/images/proofs/payment-proof-5.png",
     testimonial: "Todo super correcto",
@@ -50,7 +50,7 @@ const paymentProofs = [
   {
     id: 6,
     amount: "ARS 180.000,00",
-    date: "14 de abril de 2025",
+    date: "14 de agosto de 2025",
     platform: "Ualá / Mercado pago",
     image: "/images/proofs/payment-proof-6.png",
     testimonial: "Rapida atencion",
